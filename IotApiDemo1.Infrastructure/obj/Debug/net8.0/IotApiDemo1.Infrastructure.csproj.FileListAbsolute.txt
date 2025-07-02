@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\bin\Debug\net8.0\IotApiDemo1.Infrastructure.deps.json
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\bin\Debug\net8.0\IotApiDemo1.Infrastructure.dll
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\bin\Debug\net8.0\IotApiDemo1.Infrastructure.pdb
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\obj\Debug\net8.0\IotApiDemo1.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\obj\Debug\net8.0\IotApiDemo1.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\obj\Debug\net8.0\IotApiDemo1.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\obj\Debug\net8.0\IotApiDemo1.Infrastructure.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\obj\Debug\net8.0\IotApiDemo1.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\obj\Debug\net8.0\IotApiDemo1.Infrastructure.dll
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\obj\Debug\net8.0\refint\IotApiDemo1.Infrastructure.dll
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\obj\Debug\net8.0\IotApiDemo1.Infrastructure.pdb
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Infrastructure\obj\Debug\net8.0\ref\IotApiDemo1.Infrastructure.dll
