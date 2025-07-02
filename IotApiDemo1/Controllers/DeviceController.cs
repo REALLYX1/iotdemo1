@@ -10,6 +10,10 @@ namespace IotApiDemo1.Controllers
     {
         private readonly IDeviceRepository _deviceRepo;
 
+        //dsasadsad
+
+
+
         public DeviceController(IDeviceRepository deviceRepo)
         {
             _deviceRepo = deviceRepo;
