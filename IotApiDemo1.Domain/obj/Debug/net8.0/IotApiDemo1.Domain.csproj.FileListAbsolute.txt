@@ -6,6 +6,7 @@ C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Domain\obj\Debug\net8.0\IotA
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Domain\obj\Debug\net8.0\IotApiDemo1.Domain.AssemblyInfoInputs.cache
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Domain\obj\Debug\net8.0\IotApiDemo1.Domain.AssemblyInfo.cs
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Domain\obj\Debug\net8.0\IotApiDemo1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Domain\obj\Debug\net8.0\IotApiDemo1.Domain.sourcelink.json
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Domain\obj\Debug\net8.0\IotApiDemo1.Domain.dll
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Domain\obj\Debug\net8.0\refint\IotApiDemo1.Domain.dll
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1.Domain\obj\Debug\net8.0\IotApiDemo1.Domain.pdb

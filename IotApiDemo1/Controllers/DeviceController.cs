@@ -36,8 +36,12 @@ namespace IotApiDemo1.Controllers
             Ok(await _deviceRepo.AddAsync(device));
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(string id, Device device) =>
-            Ok(await _deviceRepo.UpdateAsync(id, device));
+        public async Task<IActionResult> Update(string id, Device device)
+        {
+            await _deviceRepo.UpdateAsync(id, device);
+            return Ok();
+        }
+
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(string id) =>

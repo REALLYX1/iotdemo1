@@ -6,10 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add Mongo settings
 builder.Services.Configure<DatabaseSetting>(
-    builder.Configuration.GetSection("DataSetting"));
+    builder.Configuration.GetSection("DatabaseSetting"));
 
 // Register repository
 builder.Services.AddScoped<IDeviceRepository, DeviceRepository>();
+builder.Services.AddScoped<IFactoryRepository, FactoryRepository>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

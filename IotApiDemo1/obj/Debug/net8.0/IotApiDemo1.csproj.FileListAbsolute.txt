@@ -41,6 +41,7 @@ C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1\obj\Debug\net8.0\IotApiDemo1
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1\obj\Debug\net8.0\IotApiDemo1.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1\obj\Debug\net8.0\IotApiDemo1.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1\obj\Debug\net8.0\IotApiDemo1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1\obj\Debug\net8.0\IotApiDemo1.sourcelink.json
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\ADMIN\source\repos\IotApiDemo1\IotApiDemo1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
