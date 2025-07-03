@@ -45,6 +45,7 @@ namespace IotApiDemo1.Domain.Repositories
             return entity;
         }
 
+
         public IMongoCollection<TEntity> GetCollection() => _collection;
     }
 }
